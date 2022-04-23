@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/anoroamglobal/static/css/main.a023d14f.css",
+    "main.js": "/anoroamglobal/static/js/main.8ef9aae6.js",
+    "static/js/787.a4b0e75e.chunk.js": "/anoroamglobal/static/js/787.a4b0e75e.chunk.js",
+    "static/media/ga.png": "/anoroamglobal/static/media/ga.c023786afee1420c9475.png",
+    "static/media/scriptiez1.png": "/anoroamglobal/static/media/scriptiez1.8e196c1498611dd3ddf3.png",
+    "static/media/scriptiez.png": "/anoroamglobal/static/media/scriptiez.17481b6a5f931cba25f3.png",
+    "static/media/logo.png": "/anoroamglobal/static/media/logo.0d6e364bb6a4f07d7804.png",
+    "static/media/logo1.png": "/anoroamglobal/static/media/logo1.771bd932e253e558aba9.png",
+    "index.html": "/anoroamglobal/index.html",
+    "main.a023d14f.css.map": "/anoroamglobal/static/css/main.a023d14f.css.map",
+    "main.8ef9aae6.js.map": "/anoroamglobal/static/js/main.8ef9aae6.js.map",
+    "787.a4b0e75e.chunk.js.map": "/anoroamglobal/static/js/787.a4b0e75e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a023d14f.css",
+    "static/js/main.8ef9aae6.js"
+  ]
+}
