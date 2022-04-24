@@ -1,4 +1,4 @@
-# Anoroam-Global
+# Anoroam-Global Arena
 Source code of Global Arena section for website anoroam - Powered By ScriptieZ
 
 # Getting Started with Create React App
