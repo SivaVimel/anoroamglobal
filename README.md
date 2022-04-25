@@ -1,6 +1,14 @@
 # Anoroam-Global Arena
 Source code of Global Arena section for website anoroam - Powered By ScriptieZ
 
+# Login-Page
+![loginpage](https://user-images.githubusercontent.com/87802556/165095440-48c885a7-778d-44b9-8e4a-e8125dabed9f.png)
+
+# Global-Arena
+![global](https://user-images.githubusercontent.com/87802556/165095546-76d244df-ec74-4d6d-97bd-c9b5f406e08a.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
